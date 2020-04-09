@@ -93,8 +93,9 @@ Gerenciamento completo do laboratório de patologia, pode ser implementado no se
    ![](21.png)
    
    
+### Obrigado pela atenção!
 
-
+### Caso tenha interesse nesse ou em outras aplicações entre em contato pelo email <b>felipekian@yahoo.com.br</b>
 
 
    
