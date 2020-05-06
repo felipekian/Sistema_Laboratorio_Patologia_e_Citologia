@@ -1,19 +1,27 @@
 # SISTEMA PARA GERENCIAMENTO DE LABORATÓRIO DE HISTOLOGIA E CITOLOGIA
 
-# CONTATO *E-mail*: felipekian@yahoo.com.br
+---
+## CONTATO *E-mail*: felipekian@yahoo.com.br
+---
 
 Sistema Desenvolvido com PHP7, JQuery, Bootstrap3, CKEditor,....
 
-<b>Amostra do sistema em execução. Mais imagens ao final.</b>
+**Amostra do sistema em execução. Mais imagens ao final.**
 
 ![](0.png)
 
-## OBJETIVOS DO SISTEMA
+
+---
+
+##  OBJETIVOS DO SISTEMA
 
 Gerenciar por completo laboratório de patologia podendo ser implementado também em _seu laboratório_. <b>
 sistema em contante evolução e sempre recebendo otimizações de melhoria quando é detectado tal necessidade</b>.
 
-### GERENCIAR HISTOLOGIA
+--- 
+
+## GERENCIAR HISTOLOGIA
+
   1. Cadastro de <b>exames</b> de Histologia.
   2. Gerenciamento de andamento do exame no laboratório em:<br>
     * <b>Arquivado</b> - exame ainda **não foi separado** para realização dos procedimentos.<br>
@@ -34,8 +42,10 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
    7. Registro de Imuno-histoquímica.
    8. Descarte ( Exames com reserva tem um prazo de 90 dias mínimo para serem descartados após liberação do exame ).
    9. Área para seleção de preças histológicas **arquivadas** para separação para clivagem tendo dados como quantidade de vezes procurado, idade, unidade de saúde, material, quantidade de dias que o exame entrou,....
-   
-   ### GERENCIAR CITOLOGIA
+
+---
+
+## GERENCIAR CITOLOGIA
   1. Cadastro de <b>exames</b> de Citologia.
   2. Gerenciamento de andamento do exame no laboratório em:<br>
     * <b>Arquivado</b> - exame ainda **não separado para realização dos procedimentos**.<br>
@@ -49,7 +59,9 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
    3. Área de busca e listagem dos exames.  
    4. Área de Digitação de exames.
    
-   ## SCREENSHOTS DO SISTEMA WEB (VERSÃO PC)
+---
+
+## SCREENSHOTS DO SISTEMA WEB (VERSÃO PC)
    
    <br>
    
@@ -97,6 +109,9 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
    
    ![](21.png)
   
+  
+---
+  
 ## SCREENSHOTS DO SISTEMA WEB (VERSÃO MOBILE)
 
   <br>
@@ -117,6 +132,8 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
   
   ![](grafico2.png)
    
+---
+
 ### OBRIGADO PELA ATENÇÃO!
 
-### CASO TENHA INTERESSE NESSE OU EM OUTRAS APLICAÇÕES ENTRE EM CONTATO PELO E-mail <b>felipekian@yahoo.com.br</b>
+### CASO TENHA INTERESSE NESSA OU EM OUTRAS APLICAÇÕES ENTRE EM CONTATO PELO E-mail: ***felipekian@yahoo.com.br**
