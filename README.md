@@ -10,7 +10,8 @@ Sistema Desenvolvido com PHP7, JQuery, Bootstrap3, CKEditor,....
 
 ## OBJETIVOS DO SISTEMA
 
-Gerenciamento completo do laboratório de patologia, pode ser implementado no seu laboratório também... <b>sistema em contante evolução e sempre recebendo otimizações quando encontrados as necessidades</b>.
+Gerenciar por completo laboratório de patologia podendo ser implementado também em _seu laboratório_. <b>
+sistema em contante evolução e sempre recebendo otimizações de melhoria quando é detectado tal necessidade</b>.
 
 ### GERENCIAR HISTOLOGIA
   1. Cadastro de <b>exames</b> de Histologia.
@@ -32,7 +33,7 @@ Gerenciamento completo do laboratório de patologia, pode ser implementado no se
    6. Área de Digitação de exames.
    7. Registro de Imuno-histoquímica.
    8. Descarte ( Exames com reserva tem um prazo de 90 dias mínimo para serem descartados após liberação do exame ).
-   9. Área para seleção de preças histológicas <b>arquivadas</b> para separação para clivagem tendo dados como quantidade de vezes procurado, idade, unidade de saúde, material, quantidade de dias que o exame entrou,....
+   9. Área para seleção de preças histológicas **arquivadas** para separação para clivagem tendo dados como quantidade de vezes procurado, idade, unidade de saúde, material, quantidade de dias que o exame entrou,....
    
    ### GERENCIAR CITOLOGIA
   1. Cadastro de <b>exames</b> de Citologia.
