@@ -16,17 +16,17 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
 ### GERENCIAR HISTOLOGIA
   1. Cadastro de <b>exames</b> de Histologia.
   2. Gerenciamento de andamento do exame no laboratório em:<br>
-    * <b>Arquivado</b> - exame ainda não separado para realização dos procedimentos.<br>
-    * <b>Separado</b> - exame retirado do arquivo.<br>
-    * <b>Clivado</b> - exame inicia o procedimento de macroscopia.<br>
-    * <b>Processado</b> - exame inicia a etapa de processamentos nos reagentes químicos.<br>
-    * <b>Microscopia</b> - exame inicia etapa de microscopia ( recortar material para ser colocado na lâmina ).<br>
-    * <b>Coloração</b> - exame na lâmina recebe corantes especiais.<br>
-    * <b>Microscopia</b> - exame analisado pelo patologista.<br>
-    * <b>Digitação</b> - exame tem seu laudo digitado.<br>
-    * <b>Liberado</b> - exame está na recepção a espera do paciente vir buscar.<br>
-    * <b>Entregue</b> - exame entregue ao paciente.<br>
-    * <b>Devolvido</b> - exame devolvido ao paciente para realizar em outro laboratório.<br>
+    * <b>Arquivado</b> - exame ainda **não foi separado** para realização dos procedimentos.<br>
+    * <b>Separado</b> - exame retirado do arquivo para **devolução ou clivagem**.<br>
+    * <b>Clivado</b> - exame inicia o procedimento de **macroscopia**.<br>
+    * <b>Processado</b> - exame inicia a etapa de **processamentos nos reagentes químicos**.<br>
+    * <b>Microtomia</b> - exame **encontra-se etapa de microtomia** ( recortar material para ser colocado na lâmina ).<br>
+    * <b>Coloração</b> - exame na lâmina recebe **corantes** especiais.<br>
+    * <b>Microscopia</b> - exame **encontra-se em análise pelo patologista**.<br>
+    * <b>Digitação</b> - exame **encontra-se na sala de digitação**.<br>
+    * <b>Liberado</b> - exame **encontra-se na recepção a espera do paciente vir buscá-lo**.<br>
+    * <b>Entregue</b> - exame **entregue ao paciente**.<br>
+    * <b>Devolvido</b> - exame **devolvido ao paciente** para realizar em outro laboratório.<br>
    3. Área de busca e listagem dos exames.
    4. Cadastro das Reservas em "caixas" ( Peças que tiveram material em excesso ).
    5. Busca de reservas ou pelas caixas.
@@ -38,13 +38,13 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
    ### GERENCIAR CITOLOGIA
   1. Cadastro de <b>exames</b> de Citologia.
   2. Gerenciamento de andamento do exame no laboratório em:<br>
-    * <b>Arquivado</b> - exame ainda não separado para realização dos procedimentos.<br>
-    * <b>Separado</b> - exame retirado do arquivo.<br>     
-    * <b>Coloração</b> - exame na lâmina recebe corantes especiais.<br>
-    * <b>Microscopia</b> - exame analisado pelo patologista.<br>
-    * <b>Digitação</b> - exame tem seu laudo digitado.<br>
-    * <b>Liberado</b> - exame está na recepção a espera do paciente vir buscar.<br>
-    * <b>Entregue</b> - exame entregue ao paciente.<br>
+    * <b>Arquivado</b> - exame ainda **não separado para realização dos procedimentos**.<br>
+    * <b>Separado</b> - exame **saparado para iníciar o processo**.<br>     
+    * <b>Coloração</b> - exame na **lâmina recebe corantes especiais**.<br>
+    * <b>Microscopia</b> - exame **encontra-se na sala dos patologistas**.<br>
+    * <b>Digitação</b> - exame tem seu **laudo digitado ou na sala de digitação**.<br>
+    * <b>Liberado</b> - exame **está na recepção** a espera do paciente vir buscar.<br>
+    * <b>Entregue</b> - exame **entregue ao paciente**.<br>
     * <b>Devolvido</b> - exame devolvido ao paciente para realizar em outro laboratório.<br>
    3. Área de busca e listagem dos exames.  
    4. Área de Digitação de exames.
