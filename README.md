@@ -10,10 +10,9 @@ Sistema Desenvolvido com PHP7, JQuery, Bootstrap3, CKEditor,....
 
 ![](0.png)
 
-
 ---
 
-##  OBJETIVOS DO SISTEMA
+## OBJETIVOS DO SISTEMA
 
 Gerenciar por completo laboratório de patologia podendo ser implementado também em _seu laboratório_. <b>
 sistema em contante evolução e sempre recebendo otimizações de melhoria quando é detectado tal necessidade</b>.
@@ -46,6 +45,7 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
 ---
 
 ## GERENCIAR CITOLOGIA
+
   1. Cadastro de <b>exames</b> de Citologia.
   2. Gerenciamento de andamento do exame no laboratório em:<br>
     * <b>Arquivado</b> - exame ainda **não separado para realização dos procedimentos**.<br>
