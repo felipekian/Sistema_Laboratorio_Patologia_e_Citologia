@@ -136,4 +136,4 @@ sistema em contante evolução e sempre recebendo otimizações de melhoria quan
 
 ### OBRIGADO PELA ATENÇÃO!
 
-### CASO TENHA INTERESSE NESSA OU EM OUTRAS APLICAÇÕES ENTRE EM CONTATO PELO E-mail: ***felipekian@yahoo.com.br**
+### CASO TENHA INTERESSE NESSA OU EM OUTRAS APLICAÇÕES ENTRE EM CONTATO PELO E-mail: **felipekian@yahoo.com.br**
